@@ -3,11 +3,11 @@
     "themes": {
         "upgradet": {
             "name": "upgardet",
-            "repo": "https://github.com/yourUsername/theme-name/tree/master",
-            "zip": "https://github.com/yourUsename/theme-name/archive/master.zip",
+            "repo": "https://github.com/madichm/upgradet/tree/master",
+            "zip": "https://github.com/madichm/upgradet/archive/master.zip",
             "summary": "My sample theme",
             "version": "2.0.0",
-            "image": "https://raw.githubusercontent.com/yourUsername/theme-name/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/madichm/upgradet/master/preview.jpg"
         }
     }
 }
